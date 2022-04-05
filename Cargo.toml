@@ -1,0 +1,13 @@
+[package]
+name = "p2p-cli"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dotenv = "0.15.0"
+dotenv_codegen = "0.15.0"
+colored = "2.0.0"
+crossterm = "0.23.1"
+libp2p = "0.44.0"
